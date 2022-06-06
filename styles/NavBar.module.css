@@ -1,0 +1,11 @@
+.navbar {
+	position: fixed;
+	display: grid;
+	background-color: #343434;
+	height: 100vh;
+	width: 200px;
+	top: 0;
+	left: 0;
+	padding-top: 60px;
+	z-index: 1;
+}
